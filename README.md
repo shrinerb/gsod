@@ -1,2 +1,3 @@
-# gsod
-Google Season of Docs Project Ideas
+# Google Season of Docs Project Ideas
+
+More to come, check back in a couple days.
