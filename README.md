@@ -10,7 +10,7 @@ Shrine is a Ruby library (a Ruby library is called a gem) used in Ruby web appli
 
 Please familarize yourself with the [technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide) for GSoD.
 
-Proposals should include the project idea (see [idea list](#Project Ideas) below), scope, breakdown of timeline, and answers to our questions listed in the [Student Application Guide](#Student Application Guideline) below.
+Proposals should include the project idea (see [idea list](#project-ideas) below), scope, breakdown of timeline, and answers to our questions listed in the [Student Application Guide](#student-application-guideline) below.
 
 We are open to hearing your feedback and ideas as well.
 
