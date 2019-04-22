@@ -6,11 +6,11 @@ We are really excited to be a part of Google Season of Docs and look forward to 
 
 Shrine is a Ruby library (a Ruby library is called a gem) used in Ruby web applications to handle file uploads and manage the file in the application. Shrine was created by @janko to address various issues in the other file attachment gems and you can read about it in his [announcement of Shrine](https://twin.github.io/introducing-shrine/). We are a small team of 3 that maintain and support Shrine.
 
-## For Students
+## For Technical Writers
 
 Please familarize yourself with the [technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide) for GSoD.
 
-Proposals should include the project idea (see [idea list](#project-ideas) below), scope, breakdown of timeline, and answers to our questions listed in the [Student Application Guide](#student-application-guideline) below.
+Proposals should include the project idea (see [idea list](#project-ideas) below), scope, breakdown of timeline, and answers to our questions listed in the [Technical Writer Application Guide](#technical-writer-application-guideline) below.
 
 We are open to hearing your feedback and ideas as well.
 
@@ -38,9 +38,9 @@ Some project ideas are:
 
 If you have questions, you can reach us through the [Ruby-shrine Google group](https://groups.google.com/forum/#!forum/ruby-shrine) or contact @hmistry.
 
-### Student Application Guideline
+### Technical Writer Application Guideline
 
-We would like to see the following questions answered in your student application:
+We would like to see the following questions answered in your technical writer application:
 
 1. **Contact information.** Please provide your email address, GitHub username, and general city + country location (for privacy reasons no address).
 
